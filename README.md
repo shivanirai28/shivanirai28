@@ -3,7 +3,7 @@
 
 
 # <h3 align="left"> 💫 About Me:</h3>
- 🌱 I’m currently learning Reactjs<br><br>    💬 Ask me about html,css,javascript,sql,oracle<br><br>    📫 How to reach me shivanikumarirai28@gmail.com<br><br>    ⚡ Fun fact I think i m Curious.<br>
+ <br><br>  🌱 I’m currently learning Reactjs<br><br>    💬 Ask me about html,css,javascript,sql,oracle<br><br>    📫 How to reach me shivanikumarirai28@gmail.com<br><br>    ⚡ Fun fact I think i m Curious.<br>
 
 
 # <h3 align="left"> 🔗Connect with me:</h3>
