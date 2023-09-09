@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Student from India.</h3>
 
 # 💫 About Me:
-  🌱 I’m currently learning Reactjs<br><br>    💬 Ask me about html,css,javascript,sql,oracle<br><br>    📫 How to reach me shivanikumarirai28@gmail.com<br><br>    ⚡ Fun fact I think i m Curious.<br><br> 
+🌱 I’m currently learning Reactjs<br>💬 Ask me about html,css,javascript,sql,oracle<br>📫 How to reach me shivanikumarirai28@gmail.com<br>⚡ Fun fact I think i m Curious.<br>
 
 
 ## 🌐 Socials:
@@ -21,10 +21,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivanirai28&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanirai28&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆GitHub Trophies:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanirai28&show_icons=true&locale=en&layout=compact" alt="shivanirai28" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanirai28&show_icons=true&locale=en" alt="shivanirai28" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanirai28&" alt="shivanirai28" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shivanirai28&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shivanirai28&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shivanirai28&icon=0&color=0)](https://visitcount.itsvg.in)
