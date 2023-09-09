@@ -6,7 +6,7 @@
 <br><br>    🌱 I’m currently learning Reactjs<br><br>    💬 Ask me about html,css,javascript,sql,oracle<br><br>    📫 How to reach me shivanikumarirai28@gmail.com<br><br>    ⚡ Fun fact I think i m Curious.<br>
 
 
-# <h3 align="left">Connect with me:</h3>
+# 🔗 Connect with me:
 <p align="left">
 <a href="https://twitter.com/shivani17917246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivani17917246" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivani-kumari-3b3004216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani-kumari-3b3004216" height="30" width="40" /></a>
