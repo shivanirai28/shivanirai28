@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Student from India.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Reactjs<br>💬 Ask me about html,css,javascript,sql,oracle<br>📫 How to reach me shivanikumarirai28@gmail.com<br>⚡ Fun fact I think i m Curious.<br>
+🌱 I’m currently learning **Reactjs**<br>💬 Ask me about **html,css,javascript,sql,oracle**<br>📫 How to reach me shivanikumarirai28@gmail.com<br>⚡ Fun fact **I think i m Curious.**<br>
 
 
 ## 🌐 Socials:
