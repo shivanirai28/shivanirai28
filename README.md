@@ -22,7 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivanirai28&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanirai28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#  🎖️Holopin Baadges
+#  🎖️Holopin Badges
 ![](https://holopin.me/shivanirai28)<br/>
 
 ## 🏆 GitHub Trophies
