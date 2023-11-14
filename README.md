@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Student from India.</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Reactjs , tailwind Css , Nextjs**
+- 🌱 I’m currently learning **Reactjs ,Tailwind Css , Nextjs**
 - 💬 Ask me about **Html , Css , Javascript , Sql , Oracle**
 - 📫 How to reach me shivanikumarirai28@gmail.com
 - ⚡ Fun fact **I think i m Curious.**
